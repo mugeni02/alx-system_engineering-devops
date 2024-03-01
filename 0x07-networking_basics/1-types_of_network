@@ -1,10 +1,3 @@
-#!/usr/bin/env bash
-
-#Type of network a computer in local is connected to
-#Type of network could connect an office in one building to another office in 
-#a building a few streets away
-#Network you use when you browse www.google.com from your smartphone 
-#(not connected to the Wifi)
 3
 2
 1
