@@ -24,7 +24,7 @@ def get_employee_todo_progress(employee_id):
         done_task_names = [task["title"] for task in data if task["is_done"]]
 
         # Display the progress
-        print(f"Employee {data[0]['name']} is done with tasks({done_tasks}/{total_tasks}):")
+        print(f"Employee {data[0]['Ervin Howell']} is done with tasks({done_tasks}/{total_tasks}):")
         for task in done_task_names:
             print(f"\t{task}")
     else:
