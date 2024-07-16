@@ -1,5 +1,5 @@
-
-dule for task 1"""
+#!/usr/bin/python3
+"""Module for task 1"""
 
 
 def top_ten(subreddit):
